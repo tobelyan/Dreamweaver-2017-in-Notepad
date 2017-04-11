@@ -4,9 +4,6 @@
 Installation:
     Copy this file to C:\Documents and Settings\%%USERNAME%%\Application Data\Notepad++\
 
-About:
-    This styler has been built by Textmate theme to Notepad++ styler <http://framework.lojcomm.com.br/tmTheme2nppStyler/>
-
 
 //-->
 <NotepadPlus>
@@ -169,7 +166,7 @@ About:
             <WordsStyle name="DEFAULT" styleID="118" fgColor="C0C0C0" bgColor="272822" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="STRING" styleID="119" fgColor="E8B46A" bgColor="272822" fontName="" fontStyle="0" fontSize="10">the_ID the_post have_posts wp_link_pages the_content</WordsStyle>
             <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="808080" bgColor="272822" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="400080" bgColor="272822" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="FF8040" bgColor="272822" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="WORD" styleID="121" fgColor="5494FB" bgColor="272822" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="122" fgColor="41D04F" bgColor="272822" fontName="" fontStyle="0" fontSize="10">$_POST $_GET $_SESSION</WordsStyle>
             <WordsStyle name="VARIABLE" styleID="123" fgColor="B79BF7" bgColor="272822" fontName="" fontStyle="0" fontSize="10" />
